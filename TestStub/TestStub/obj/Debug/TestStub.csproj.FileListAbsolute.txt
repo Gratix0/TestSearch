@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\TestStub\TestStub\bin\Debug\TestStub.exe.config
+C:\Users\Александр\source\repos\TestStub\TestStub\bin\Debug\TestStub.exe
+C:\Users\Александр\source\repos\TestStub\TestStub\bin\Debug\TestStub.pdb
+C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.exe
+C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.pdb

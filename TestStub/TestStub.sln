@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "TestStub\Stub.csproj", "{30E4037A-14C3-4438-9C74-6617D91D1182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubTest", "StubTest\StubTest.csproj", "{DBBFD91E-2294-4827-B11C-170052FFDCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E4037A-14C3-4438-9C74-6617D91D1182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E4037A-14C3-4438-9C74-6617D91D1182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E4037A-14C3-4438-9C74-6617D91D1182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E4037A-14C3-4438-9C74-6617D91D1182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBFD91E-2294-4827-B11C-170052FFDCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBFD91E-2294-4827-B11C-170052FFDCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBFD91E-2294-4827-B11C-170052FFDCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBFD91E-2294-4827-B11C-170052FFDCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F213975-E71B-4D2D-9E80-BD81F0BF2630}
+	EndGlobalSection
+EndGlobal
