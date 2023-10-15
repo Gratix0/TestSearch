@@ -5,3 +5,11 @@ C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\Stub.csproj
 C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
 C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.exe
 C:\Users\Александр\source\repos\TestStub\TestStub\obj\Debug\TestStub.pdb
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\bin\Debug\TestStub.exe.config
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\bin\Debug\TestStub.exe
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\bin\Debug\TestStub.pdb
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\obj\Debug\Stub.csproj.AssemblyReference.cache
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\obj\Debug\Stub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\obj\Debug\TestStub.exe
+C:\Users\Gratix\Documents\GitHub\TestSearch\TestStub\TestStub\obj\Debug\TestStub.pdb

@@ -12,9 +12,11 @@ namespace StubTest
         [TestMethod]
         public void FindLogFile_NameFile_IsFound()
         {
-            TestStub.FileManager fileManager = new TestStub.FileManager();
-            bool actual = fileManager.FindLogFile("_MG_2122.CR2");
-            Assert.IsTrue(actual);
+            TestStub.FileManager fileManager = new TestStub.FileManager(); string expected = "dadada";
+
+            string actual = fileManager.FindLogFile("Test.txt");
+
+            Assert.AreEqual(expected, actual);
         }
     }
 }

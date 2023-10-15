@@ -7,7 +7,7 @@ namespace TestStub
     {
         public List<string> GetFiles()
         {
-            string path = "D:\\100CANON"; //путь поиска файла
+            string path = "C:\\Users\\Gratix\\Downloads"; //путь поиска файла
 
             List<string> list = new List<string>();
             DirectoryInfo d = new DirectoryInfo(path);

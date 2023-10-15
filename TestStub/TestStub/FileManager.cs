@@ -1,10 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
 
 namespace TestStub
 {
     public class FileManager
     {
-        public bool FindLogFile(string fileName)
+        public string FindLogFile(string fileName)
         {
             //FileDataObject obj = new FileDataObject(); //класс поиска по файловой системе
             TestDataObject obj = new TestDataObject(); // заглушка,для тестирования
@@ -15,11 +18,18 @@ namespace TestStub
             {
                 if (file.Contains(fileName))  //поиск названия файла 
                 {
-                    return true;
+                    string filePath = $"C:\\Users\\Gratix\\Downloads\\{fileName}";
+
+                    string[] words = File.ReadAllText(filePath)
+                        .Split(new char[] { ' ', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+                    string longestWord = words.OrderByDescending(w => w.Length).FirstOrDefault();
+
+                    return longestWord;
                 }
             }
 
-            return false;
+            return "Слов или файла не найдено";
         }
     }
 }

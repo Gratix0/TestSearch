@@ -8,7 +8,7 @@ namespace TestStub
         {
             List<string> list = new List<string>();
             list.Add("main.log");
-            list.Add("_MG_2122.CR2");
+            list.Add("Test.txt");
             list.Add("file2.log");
             list.Add("file3.exe");
 
